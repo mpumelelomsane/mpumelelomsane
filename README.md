@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mpumelelomsane
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Python , Java, SQL & Web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/mpumelelo-msane-77a883250/
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I laugh 90% of the time.
 
