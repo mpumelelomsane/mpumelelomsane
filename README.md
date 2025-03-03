@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpumelelomsane
-- 🌱 I’m currently enhancing my skills in  Python , Java, SQL & Web development 
-- ⚡ Fun fact: You'll find me giggling 90% of the time.🤭
+-  Technical skills: Python , Java, SQL & Web development 
+- 
 
 <!---
 mpumelelomsane/mpumelelomsane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
