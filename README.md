@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src=""  />
+  <img height="150" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif<br><br>I am a passionate Software Tester / QA Automation Engineer who holds a Diploma in Information Technology (Systems Development). I am currently improving my skills in Test Automation, API testing and GUI testing using Postman and Selenium with C# and Python.<br><br>Proficient in designing and executing comprehensive test cases and skilled at identifying and documenting software defects. Apart from Testing, I enjoy building Web Apps.<br><br>I am looking to collaborate on Test automation Projects. Please hit me up if you're interested, meanwhile let's take a stroll and see what I've been working on!</p>
+<p align="left">I am a passionate Software Tester / QA Automation Engineer who holds a Diploma in Information Technology (Systems Development). I am currently improving my skills in Test Automation, API testing and GUI testing using Postman and Selenium with C# and Python.<br><br>Proficient in designing and executing comprehensive test cases and skilled at identifying and documenting software defects. Apart from Testing, I enjoy building Web Apps.<br><br>I am looking to collaborate on Test automation Projects. Please hit me up if you're interested, meanwhile let's take a stroll and see what I've been working on!</p>
 
 ###
 
