@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I am a passionate aspiring Software Tester / QA Automation Engineer who holds a Diploma in Information Technology (Systems Development). I am currently improving my skills in Test Automation, API testing and GUI testing using Postman and Selenium with C# and Python.<br><br>Proficient in designing and executing comprehensive test cases and skilled at identifying and documenting software defects. Apart from Testing, I enjoy building Web Apps,baking and walking to the beach.<br><br>I am looking to collaborate on Test automation Projects. Please hit me up at msanempumey@gmail.com if you're interested. Meanwhile, let's take a stroll and see what I've been working on!😄</p>
+<p align="left">I am a passionate aspiring Software Tester / QA Automation Engineer who holds a Diploma in Information Technology (Systems Development). I am currently improving my skills in Test Automation, API testing and GUI testing using Postman and Selenium with C# and Python.<br><br>Proficient in designing and executing comprehensive test cases and skilled at identifying and documenting software defects. <br><br>Outside of Testing and coding , I enjoy exploring new recipes through baking🧁🍰 ,walking to the beach🌊 and having meaningful conversations with friends.<br><br>I am looking to collaborate on Test automation Projects. Please hit me up at msanempumey@gmail.com if you're interested. Meanwhile, let's take a stroll and see what I've been working on!😄</p>
 
 ###
 
