@@ -67,6 +67,15 @@ In the meantime, let's take a stroll and see what I've been working on!😄</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpumelelomsane&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpumelelomsane&exclude_repo=mpumelelomsane.github.io&langs_count=6&layout=compact&hide_border=true" alt="Most Used Languages" />
+</div>
+
 ###
 
 <h3 align="left"></h3>
