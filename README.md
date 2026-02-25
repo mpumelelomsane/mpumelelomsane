@@ -30,22 +30,23 @@
 
 ###
 
-<p align="left">I am a passionate QA Software Engineer specialising in both Manual & Automation Testing. I hold a Diploma in Information Technology (Systems Development) where I gained knowledge using different programming languages mainly Java, Python, and C#. Currently deepening my skills in Test Automation , API testing and GUI testing. <br><br> I am proficient in designing and executing comprehensive Test cases and skilled at identifying and documenting software defects. I have mastered the entire STLC and SDLC and its associated skills. <br><br>Outside of testing and coding , I enjoy good food, having meaningful conversations with friends & family or people I just met. I love reading my bible and listening to music.<br><br>I am looking to collaborate on open source QA Projects , both manual or automation. Please hit me up if you're interested !!
+<p align="left">I am a passionate QA Software Engineer specialising in both Manual & Automation Testing. I hold a Diploma in Information Technology (Systems Development) where I gained knowledge using different programming languages mainly Java, Python, and C#. Currently deepening my skills in Test Automation , API testing and GUI testing. <br><br> I am proficient in designing and executing comprehensive Test cases and skilled at identifying and documenting software defects. I have mastered the entire STLC and SDLC and its associated skills. <br><br>Outside of testing and coding , I enjoy good food, having meaningful conversations with friends & family or people I just met. I also love reading my bible and listening to music.<br><br>I am looking to collaborate on open source QA Projects ,in both manual or automation. Please hit me up if you're interested !!
 In the meantime, let's take a stroll and see what I've been working on!😄</p>
 
 ## 🎯 My Learning Journey
-**Currently Mastering:**
+**Currently Mastering:**📚
 - 📘 Selenium (Python/JavaScript) - Primary focus
 - 🔧 Test automation best practices and frameworks ,
 - 🚀 AI -driven testing 
-- 🌐 API testing fundamentals -Using Postman
+- 🌐 API testing fundamentals -Using Postman, covering basic CRUD operations.
 - 🔄 CI/CD integration concepts
 - 🐛 JIRA for bug-tracking
 
 **On the Roadmap:**
-- Playwright techniques
+- Playwright techniques 
 - WebdriverIO
-- Intergration testing
+- Robot Framework : Deepening knowledge of Robot Framework for acceptance-level testing, including its syntax and integraions.
+ 🚀  ALWAYS EAGER TO LEARN NEW TOOLS AND METHODOLOGIES IN THE QA FIELD !! 
 
   
 ###
