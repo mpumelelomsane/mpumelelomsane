@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">💬 Let's get in touch </h3>
+<h3 align="left">💬 Let's Connect </h3>
 
 ###
 
