@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello World!👋<br><br>Welcome to my Github, I am glad you stopped by!</h1>
+<h1 align="center">Hello, I'm Mpumelelo!👋<br><br>Welcome to my Github, I am glad you stopped by!</h1>
 
 ###
 
@@ -30,7 +30,11 @@
 
 ###
 
-<p align="left">I am a passionate QA Software Engineer specialising in both Manual & Automation Testing. I hold a National Diploma in Information Technology : Systems Development,  where I gained knowledge using different programming languages mainly Java, Python, and C#. Currently deepening my skills in Test Automation , API testing and GUI testing. <br><br> I am proficient in designing and executing comprehensive Test cases and skilled at identifying and documenting software defects. I have mastered the entire SDLC and STLC and its associated skills. <br><br>Outside of testing and coding , I recharge and find my peace by feeling the wind in my hair near the beach. I enjoy good food, having meaningful conversations with friends & family or people I just met. I also love reading my bible and listening to music.<br><br>I am looking to collaborate on open source QA Projects , both manual or automation. Please hit me up if you're interested !!
+<p align="left">I’m a passionate QA Software Engineer dedicated to bridging the gap between development and quality. With a background in IT(Systems Development) and experience in Java, Python, and C#, I love using my "dev-mindset" to build better tests. Whether it’s hunting bugs manually or architecting automated suites, I’m all about delivering software that just works. <br>
+  
+  <br> I am proficient in designing and executing comprehensive Test cases and skilled at identifying and documenting software defects. I have mastered the entire SDLC and STLC and its associated skills. <br><br>Outside of testing and coding , I recharge and find my peace by feeling the wind in my hair near the beach. I enjoy good food, having meaningful conversations with friends & family or people I just met. I also love reading my bible and listening to music.<br>
+  
+  <br>I am looking to collaborate on open source QA Projects , both manual or automation. Please hit me up if you're interested !!
 In the meantime, let's take a stroll and see what I've been working on!😄</p>
 
 ## 🎯 My Learning Journey
