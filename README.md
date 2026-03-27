@@ -30,12 +30,17 @@
 
 ###
 
-<p align="left">I’m a passionate QA Software Engineer dedicated to bridging the gap between development and quality. With a background in IT(Systems Development) and experience in Java, Python, and C#, I love using my "dev-mindset" to build better tests. Whether it’s hunting bugs manually or architecting automated suites, I’m all about delivering software that just works. <br>
+<p align="left">I’m a passionate QA Software Engineer dedicated to bridging the gap between development and quality. With a background in IT (Systems Development) and experience in Java, Python, and C#, I love using my "dev-mindset" to build better tests. Whether it’s hunting bugs manually or architecting automated suites, I’m all about delivering software that just works. <br>
   
-  <br> I am proficient in designing and executing comprehensive Test cases and skilled at identifying and documenting software defects. I have mastered the entire SDLC and STLC and its associated skills. <br><br>Outside of testing and coding , I recharge and find my peace by feeling the wind in my hair near the beach. I enjoy good food, having meaningful conversations with friends & family or people I just met. I also love reading my bible and listening to music.<br>
+<br> **🌊 Beyond the Screen**
+
+When I’m not diving into code or logs, you’ll likely find me at the beach—nothing recharges my soul like the ocean breeze. I’m a big believer in the power of faith, good music, and a great meal. I love a meaningful conversation, whether it's with lifelong friends or someone I’ve just met, so don't be a stranger!
+
+**✍️ Sharing My Findings**
+
+I’m a firm believer in "learning by teaching." I document my QA discoveries, tutorials, and industry insights over on my [ Blog] (https://medium.com/@mpumeymsane) . Feel free to check it out and join the conversation!.<br>
   
-  <br>I am looking to collaborate on open source QA Projects , both manual or automation. Please hit me up if you're interested !!
-In the meantime, let's take a stroll and see what I've been working on!😄</p>
+  <br>😄</p>
 
 ## 🎯 My Learning Journey
 📚 **Currently Mastering:** 
