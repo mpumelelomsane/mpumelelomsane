@@ -30,18 +30,17 @@
 
 ###
 
-<p align="left">I’m a passionate QA Software Engineer dedicated to bridging the gap between development and quality. With a background in IT (Systems Development) and experience in Java, Python, and C#, I love using my "dev-mindset" to build better tests. Whether it’s hunting bugs manually or architecting automated suites, I’m all about delivering software that just works. <br>
+<p align="left">I’m a passionate QA Software Engineer dedicated to bridging the gap between development and quality. With a background in IT (Systems Development) and experience in Java, Python, and C#, I love using my "dev-mindset" to build better tests. Whether it’s hunting bugs manually or architecting automated suites, I’m all about delivering software that just works. <br> 
+<br>
   
-<br> **🌊 Beyond the Screen**
-
-When I’m not diving into code or logs, you’ll likely find me at the beach—nothing recharges my soul like the ocean breeze. I’m a big believer in the power of faith, good music, and a great meal. I love a meaningful conversation, whether it's with lifelong friends or someone I’ve just met, so don't be a stranger!
-
-**✍️ Sharing My Findings**
-
 I’m a firm believer in *learning by teaching.* I document my QA discoveries, tutorials, and industry insights over on
-[My Blog](https://medium.com/@mpumeymsane) . Feel free to check it out and join the conversation!.<br>
-  
-  <br></p>
+[My Blog](https://medium.com/@mpumeymsane) . Feel free to check it out and join the conversation!.
+
+ **🌊Beyond the Code:**
+When I’m not diving into code or logs, you’ll likely find me at the beach—nothing recharges my soul like the ocean breeze.I love a meaningful conversation, whether it's with lifelong friends or someone I’ve just met, so don't be a stranger!
+
+<br>
+<br></p>
 
 ## 🎯 My Learning Journey
 I’m currently on an exciting mission to master the full spectrum of modern testing. Here’s what’s on my radar:
@@ -58,9 +57,7 @@ I’m currently on an exciting mission to master the full spectrum of modern tes
 
 🚀 **New Frameworks**: Expanding into **Playwright** and **Cypress** to stay versatile.
 
-🤖 **Acceptance Testing**: Leveling up with **Robot Framework** for robust, keyword-driven testing.
-  
--  🚀  ALWAYS EAGER TO LEARN NEW TOOLS AND METHODOLOGIES IN THE QA FIELD !!
+🤖 **Acceptance Testing**: Leveling up with **Robot Framework** 
  
 
   
