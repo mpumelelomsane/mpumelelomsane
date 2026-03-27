@@ -35,10 +35,11 @@ In the meantime, let's take a stroll and see what I've been working on!😄</p>
 
 ## 🎯 My Learning Journey
 📚 **Currently Mastering:** 
+- 🌐 POSTMAN - API testing fundamentals,
+  covering basic CRUD operations.
 - 📘 Selenium (Python/JavaScript) - Primary focus
 - 🔧 Test automation best practices and frameworks ,
-- 🚀 AI -driven testing 
-- 🌐 API testing fundamentals -Using Postman, covering basic CRUD operations.
+- 🚀 AI -driven testing , 
 - 🔄 CI/CD integration concepts
 - 🐛 JIRA for bug-tracking
 
