@@ -33,27 +33,32 @@
 <p align="left">I’m a passionate QA Software Engineer dedicated to bridging the gap between development and quality. With a background in IT (Systems Development) and experience in Java, Python, and C#, I love using my "dev-mindset" to build better tests. Whether it’s hunting bugs manually or architecting automated suites, I’m all about delivering software that just works. <br>
   
 <br> **🌊 Beyond the Screen**
+
 When I’m not diving into code or logs, you’ll likely find me at the beach—nothing recharges my soul like the ocean breeze. I’m a big believer in the power of faith, good music, and a great meal. I love a meaningful conversation, whether it's with lifelong friends or someone I’ve just met, so don't be a stranger!
 
 **✍️ Sharing My Findings**
-I’m a firm believer in "learning by teaching." I document my QA discoveries, tutorials, and industry insights over on my [Blog](https://medium.com/@mpumeymsane) . Feel free to check it out and join the conversation!.<br>
+
+I’m a firm believer in *learning by teaching.* I document my QA discoveries, tutorials, and industry insights over on
+[My Blog](https://medium.com/@mpumeymsane) . Feel free to check it out and join the conversation!.<br>
   
   <br></p>
 
 ## 🎯 My Learning Journey
-📚 **Currently Mastering:** 
-- 🌐 POSTMAN - API testing fundamentals,
-  covering basic CRUD operations.
-- 📘 Selenium (Python/JavaScript) - Primary focus
-- 🔧 Test automation best practices and frameworks ,
-- 🚀 AI -driven testing , 
-- 🔄 CI/CD integration concepts
-- 🐛 JIRA for bug-tracking
+I’m currently on an exciting mission to master the full spectrum of modern testing. Here’s what’s on my radar:
 
-**On the Roadmap:**
-- Playwright/ Cypress techniques : I'm yet to explore other tools like Playwright or Cypress because I recognize the importance of staying updated and exploring new tools to   meet different project needs.
-    
-- Robot Framework : Deepening knowledge of Robot Framework for acceptance-level testing, including its syntax and integraions.
+**📚 Currently Mastering:**
+
+🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.
+
+🚀**Automation**: Refining my Selenium skills (Python/JS) and exploring AI-driven testing.
+
+🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.
+
+**🛣On the Roadmap:**
+
+🚀 **New Frameworks**: Expanding into **Playwright** and **Cypress** to stay versatile.
+
+🤖 **Acceptance Testing**: Leveling up with **Robot Framework** for robust, keyword-driven testing.
   
 -  🚀  ALWAYS EAGER TO LEARN NEW TOOLS AND METHODOLOGIES IN THE QA FIELD !!
  
