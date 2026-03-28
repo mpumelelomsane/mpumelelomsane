@@ -36,7 +36,6 @@ I have a National Diploma in Information Technology (Systems Development), which
 
 I don't just find bugs; I write about them too! Check out [My Blog](https://medium.com/@mpumeymsane) where I share all my "Aha!" moments and QA secrets 
  <br> 
- 
 <br>
  **🌊Beyond the Code:**
 
