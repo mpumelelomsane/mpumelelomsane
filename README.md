@@ -30,15 +30,17 @@
 
 ###
 
-<p align="left">I’m a passionate QA Software Engineer dedicated to bridging the gap between development and quality. With a background in IT (Systems Development) and experience in Java, Python, and C#, I love using my "dev-mindset" to build better tests. Whether it’s hunting bugs manually or architecting automated suites, I’m all about delivering software that just works. <br> 
+<p align="left">.I’m a passionate QA Software engineer who is totally obsessed with making sure apps don't break. Think of me as a digital detective! 🕵️‍♂️ I specialize in both Manual & Automation Testing.
+
+I have a National Diploma in Information Technology (Systems Development), which means I speak **Code** fluently—specifically **Java, Python, and C#.** Right now, I’m leveling up my skills in API testing and exploratory testing because I believe software should be as smooth as a summer breeze for our end-users.
+
+I don't just find bugs; I write about them too! Check out [My Blog](https://medium.com/@mpumeymsane) where I share all my "Aha!" moments and QA secrets 
+ <br> 
+ 
 <br>
-  
-I’m a firm believer in *learning by teaching.* I document my QA discoveries, tutorials, and industry insights over on
-[My Blog](https://medium.com/@mpumeymsane) . Feel free to check it out and join the conversation!.
-
  **🌊Beyond the Code:**
-When I’m not diving into code or logs, you’ll likely find me at the beach—nothing recharges my soul like the ocean breeze.I love a meaningful conversation, whether it's with lifelong friends or someone I’ve just met, so don't be a stranger!
 
+When I’m not diving into code or bug hunting,you’ll likely find me at the beach. Nothing recharges my soul like the ocean breeze in my hair and the sounds of waves to find my peace. I'm also a fan of good food (because who isn't?)🍕 while having meaningful conversations, whether it's with lifelong friends or someone I’ve just met. 
 <br>
 <br></p>
 
