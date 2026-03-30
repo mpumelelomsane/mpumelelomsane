@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Mpumelelo!👋<br><br>Welcome to my Github, I am glad you stopped by!</h1>
+<h1 align="center">Hi, I'm Mpumelelo!👋<br><br> A Software Engineer, committed to code quality !</h1>
 
 ###
 
