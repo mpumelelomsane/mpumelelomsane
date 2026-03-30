@@ -37,7 +37,7 @@ I have a National Diploma in Information Technology (Systems Development), which
 I don't just find bugs; I write about them too! Check out [My Technical Blog](https://medium.com/@mpumeymsane) where I share all my "Aha!" moments and QA secrets.
  <br> 
 <br>
-🌊When I’m not diving into code or bug hunting,you’ll likely find me at the beach. Nothing recharges my soul like the ocean breeze in my hair and the sounds of waves to find my peace. I'm also a fan of good food (because who isn't?)🍕.  
+🌊When I’m not diving into code or bug hunting,you’ll likely find me at the beach. Nothing recharges my soul like the ocean breeze in my hair and the sounds of waves to find my peace. I'm also a fan of good food (because who isn't?)🍕. Let's collaborate and create amazing software together!
 <br>
 <br></p>
 
