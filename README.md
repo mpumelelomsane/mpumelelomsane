@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I’m a passionate Software engineer who is totally obsessed with QUALITY and making sure that apps don't break. Because great software starts with QUALITY and ends with a HAPPY USER!
+<p align="left">I’m a passionate Software engineer who is totally obsessed with quality and making sure that apps don't break. Because great software starts with QUALITY and ends with a HAPPY USER!
 
 I have a National Diploma in Information Technology (Systems Development), which means I speak **Code** fluently—specifically **Java, Python, and C#.** Right now, I’m leveling up my skills in API testing and exploratory testing because I believe software should be as smooth as a summer breeze for our end-users.
 
