@@ -18,7 +18,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algorithms in Python](https://github.com/mpumelelo/Algorithms-Practice)
+  - [Practising DS & Algorithms in Python](https://github.com/mpumelelo/Algorithms-Practice)
 
 
 ## 🎯 My Learning Journey
@@ -76,7 +76,8 @@ I’m currently on an exciting mission to master the full spectrum of modern tes
 
 ###
 
-<h3 align="left">💬 Let's Connect </h3>
+<h2> 🤳 Connect with me:</h2>
+
 
 ###
 
