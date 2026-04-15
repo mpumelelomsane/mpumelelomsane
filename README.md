@@ -6,25 +6,7 @@
 <h1>Hi, I'm Mpumelelo! <br/><a href="https://github.com/mpumelelomsane">Programmer</a> | <a href="https://www.linkedin.com/in/mpumelelomsane/">Quality Engineer</a> | <a href="https://medium.com/@mpumeymsane">Technical Writer</a></h1>
 
 
-###
 
-<h3 align="left">💬 Let's Connect </h3>
-
-###
-
-<div align="center">
- <a href="mailto:msanempumey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</a>
-  <a href="https://www.linkedin.com/in/mpumelelomsane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@mpumeymsane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-</div>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -91,5 +73,25 @@ I’m currently on an exciting mission to master the full spectrum of modern tes
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+###
+
+<h3 align="left">💬 Let's Connect </h3>
+
+###
+
+<div align="center">
+ <a href="mailto:msanempumey@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</a>
+  <a href="https://www.linkedin.com/in/mpumelelomsane" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@mpumeymsane" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+</div>
+
+###
 
 
