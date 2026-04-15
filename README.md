@@ -31,11 +31,6 @@
 ###
 
 <p align="left">I’m a passionate Software engineer who is totally obsessed with quality and making sure that apps don't break. Because great software starts with QUALITY and ends with a HAPPY USER!
-
-I have a National Diploma in Information Technology (Systems Development), which means I speak **Code** fluently—specifically **Java, Python, and C#.** Right now, I’m leveling up my skills in SOFTWARE QUALITY ASSURANCE because I believe software should be as smooth as a summer breeze for our end-users.
-
-Check out [My Technical Blog:Engineering for Quality](https://medium.com/@mpumeymsane) where I share all my "Aha!" moments and QA secrets.
- <br> 
 </p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
