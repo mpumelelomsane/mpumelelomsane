@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h1>Hi, I'm Mpumelelo! <br/><a href="https://github.com/mpumelelomsane">Programmer</a>| <a href="https://www.linkedin.com/in/mpumelelomsane/">Quality Engineer</a>| <a href="https://medium.com/@mpumeymsane">Technical Writer</a></h1>
+<h1>Hi, I'm Mpumelelo! <br/><a href="https://github.com/mpumelelomsane">Programmer</a> | <a href="https://www.linkedin.com/in/mpumelelomsane/">Quality Engineer</a> | <a href="https://medium.com/@mpumeymsane">Technical Writer</a></h1>
 
 
 ###
