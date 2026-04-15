@@ -34,12 +34,15 @@
 
 I have a National Diploma in Information Technology (Systems Development), which means I speak **Code** fluently—specifically **Java, Python, and C#.** Right now, I’m leveling up my skills in SOFTWARE QUALITY ASSURANCE because I believe software should be as smooth as a summer breeze for our end-users.
 
-I don't just find bugs; I write about them too! Check out [My Technical Blog:Engineering for Quality](https://medium.com/@mpumeymsane) where I share all my "Aha!" moments and QA secrets.
+Check out [My Technical Blog:Engineering for Quality](https://medium.com/@mpumeymsane) where I share all my "Aha!" moments and QA secrets.
  <br> 
-<br>
-🌊When I’m not diving into code or bug hunting,you’ll likely find me at the beach. Nothing recharges my soul like the ocean breeze in my hair and the sounds of waves to find my peace. I'm also a fan of good food (because who isn't?)🍕. Let's collaborate and create amazing software together!
-<br>
-<br></p>
+</p>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice </b>
+  - [Praciting DS & Algorithms in Python](https://github.com/mpumelelo/Algorithms-Practice)
+
 
 ## 🎯 My Learning Journey
 I’m currently on an exciting mission to master the full spectrum of modern testing. Here’s what’s on my radar:
@@ -62,7 +65,7 @@ I’m currently on an exciting mission to master the full spectrum of modern tes
   
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 **Language and tools** </h3>
 
 ###
 
