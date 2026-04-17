@@ -14,6 +14,17 @@
 
 <p align="left">I’m an IT Graduate(82% aggregate) and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability.
   
+During my studies , I have consistently looked beyond just "making code work". I believe that software 
+is only as good as its reliability, which is why I have proactively expanded my skills in both
+Manual & Automated testing using varied tools.
+
+I have a proven ability to communicate technical concepts effectively having worked as a Coding & Robotics 
+Mentor and I'm a firm believer in continuous learning and documentation. 
+In my spare time I document my QA findings and experiments in how I mantain high-quality standards 
+in every every line of code I write. Feel free to check out my[Technical blog - Engineering For Quality]["https://medium.com/@mpumeymsane"]
+
+For now let's take a stroll and see what I have been working on. 
+  
 ## 🎯 What I bring to the table:
 
 👩‍💻**Full-stack Versatility**:  Fluent in Java, Python, C#, and JavaScript.</li>
