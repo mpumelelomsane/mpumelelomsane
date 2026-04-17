@@ -8,7 +8,7 @@
 
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2>👩‍💻 About Me:</h2>
 
 ###
 
@@ -46,7 +46,7 @@
   
 ###
 
-<h3 align="left">👩‍💻 TECH STACK </h3>
+<h2>👩‍💻 Tech Stack:</h2>
 
 ###
 
