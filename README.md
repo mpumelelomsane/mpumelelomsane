@@ -16,7 +16,7 @@
   
 ## 🎯 What I bring to the table:
 <ul>
-</li>📚**Full-stackVerstality**  Fluent in Java, Python, C#, and JavaScript.</li>
+</li>Full-stackVerstality:  Fluent in Java, Python, C#, and JavaScript.</li>
   
 </li>🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.</li>
 
