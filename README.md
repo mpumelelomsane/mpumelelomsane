@@ -13,11 +13,19 @@
 ###
 
 <p align="left">I’m an IT Graduate(82% aggregate) and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability.
-What I bring to the table:
-* Full-Stack Versatility: Fluent in Java, Python, C#, and JavaScript.
-* Automation Mindset: Proactive in manual and automated testing to ensure 99.9% reliability.
-* Agile Native: Experienced in SCRUM environments and technical mentoring.
-🚀 Big Interest: Leveraging AI to supercharge developer productivity and testing workflows.  
+  
+## 🎯 What I bring to the table:
+📚**Full-stack Verstality**  Fluent in Java, Python, C#, and JavaScript.
+
+🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.
+
+🚀**Automation Mindset**: Proactive in manual and automated testing to ensure 99.9% reliability.
+
+**Agile Native**: Experienced in SCRUM environments and technical mentoring.
+
+🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.
+
+🚀**Big Interest**: Leveraging AI to supercharge developer productivity and testing workflows.  
 </p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -26,13 +34,6 @@ What I bring to the table:
   - [Practising DS & Algorithms in Python](https://github.com/mpumelelo/Algorithms-Practice)
 
 
-## 🎯 My Learning Journey
-I’m currently on an exciting mission to master the full spectrum of modern testing. Here’s what’s on my radar:
-
-**📚 Currently Mastering:**
-🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.
-🚀**Automation**: Refining my Selenium skills (Python/JS) and exploring AI-driven testing.
-🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.
 
 **🛣On the Roadmap:**
 
@@ -41,7 +42,7 @@ I’m currently on an exciting mission to master the full spectrum of modern tes
   
 ###
 
-<h3 align="left">🛠 **Language and tools** </h3>
+<h3 align="left">👩‍💻 TECH STACK </h3>
 
 ###
 
