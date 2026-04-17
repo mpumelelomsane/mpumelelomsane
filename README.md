@@ -15,17 +15,16 @@
 <p align="left">I’m an IT Graduate(82% aggregate) and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability.
   
 ## 🎯 What I bring to the table:
-<ul>
-</li>Full-stackVerstality:  Fluent in Java, Python, C#, and JavaScript.</li>
+
+👩‍💻**Full-stack Versatility**:  Fluent in Java, Python, C#, and JavaScript.</li>
   
-</li>🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.</li>
+🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.
 
-</li> 🚀**Automation Mindset**: Proactive in manual and automated testing to ensure 99.9% reliability.</li>
+🚀**Automation Mindset**: Proactive in manual and automated testing to ensure 99.9% reliability.
 
-</li>**Agile Native**: Experienced in SCRUM environments and technical mentoring.</li>
+**Agile Native**: Experienced in SCRUM environments and technical mentoring.
 
-</li>🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.</li>
- </ul>
+🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.
  
 🚀**Big Interest**: Leveraging AI to supercharge developer productivity and testing workflows. 
 
