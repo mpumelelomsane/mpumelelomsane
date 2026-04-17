@@ -17,11 +17,16 @@
 ## 🎯 What I bring to the table:
 <ul>
 </li>📚**Full-stackVerstality**  Fluent in Java, Python, C#, and JavaScript.</li>
+  
 </li>🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.</li>
+
 </li> 🚀**Automation Mindset**: Proactive in manual and automated testing to ensure 99.9% reliability.</li>
+
 </li>**Agile Native**: Experienced in SCRUM environments and technical mentoring.</li>
+
 </li>🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.</li>
  </ul>
+ 
 🚀**Big Interest**: Leveraging AI to supercharge developer productivity and testing workflows. 
 
 
