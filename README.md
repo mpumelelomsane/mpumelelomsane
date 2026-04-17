@@ -15,20 +15,19 @@
 <p align="left">I’m an IT Graduate(82% aggregate) and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability.
   
 ## 🎯 What I bring to the table:
-📚**Full-stack Verstality**  Fluent in Java, Python, C#, and JavaScript.
+ <ul>
+</li>📚**Full-stackVerstality**  Fluent in Java, Python, C#, and JavaScript.</li>
+</li>🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.</li>
+</li> 🚀**Automation Mindset**: Proactive in manual and automated testing to ensure 99.9% reliability.</li>
+</li>**Agile Native**: Experienced in SCRUM environments and technical mentoring.</li>
+</li>🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.</li>
 
-🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.
+🚀**Big Interest**: Leveraging AI to supercharge developer productivity and testing workflows. 
+ </ul>
 
-🚀**Automation Mindset**: Proactive in manual and automated testing to ensure 99.9% reliability.
 
-**Agile Native**: Experienced in SCRUM environments and technical mentoring.
-
-🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.
-
-🚀**Big Interest**: Leveraging AI to supercharge developer productivity and testing workflows.  
-</p>
-
-<h2>👨‍💻 Software Development Projects:</h2>
+ 
+<h2>👩‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
   - [Practising DS & Algorithms in Python](https://github.com/mpumelelo/Algorithms-Practice)
@@ -38,6 +37,7 @@
 **🛣On the Roadmap:**
 
 🚀 **New Frameworks**: Expanding into **Playwright** and **Cypress** to stay versatile.
+
 🤖 **Acceptance Testing**: Leveling up with **Robot Framework** 
   
 ###
