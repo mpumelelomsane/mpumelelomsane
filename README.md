@@ -22,7 +22,7 @@
 
 🚀**Automation Mindset**: Proactive in manual and automated testing to ensure 99.9% reliability.
 
-**Agile Native**: Experienced in SCRUM environments and technical mentoring.
+🔁**Agile Native**: Experienced in SCRUM environments and technical mentoring.
 
 🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.
  
