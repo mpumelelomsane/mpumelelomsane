@@ -21,7 +21,7 @@ Manual & Automated testing using varied tools.
 I have a proven ability to communicate technical concepts effectively having worked as a Coding & Robotics 
 Mentor and I'm a firm believer in continuous learning and documentation. 
 In my spare time I document my QA findings and experiments in how I mantain high-quality standards 
-in every every line of code I write. Feel free to check out my[Technical blog - Engineering For Quality]["https://medium.com/@mpumeymsane"]
+in every every line of code I write. Feel free to check out my[Technical blog - Engineering For Quality.](https://medium.com/@mpumeymsane)
 
 For now let's take a stroll and see what I have been working on. 
   
@@ -42,20 +42,13 @@ For now let's take a stroll and see what I have been working on.
 
 
  
-<h2>👩‍💻 Software Development Projects:</h2>
+<h2>👩‍💻 Highlighted Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
   - [Practising DS & Algorithms in Python](https://github.com/mpumelelo/Algorithms-Practice)
 
 
 
-**🛣On the Roadmap:**
-
-🚀 **New Frameworks**: Expanding into **Playwright** and **Cypress** to stay versatile.
-
-🤖 **Acceptance Testing**: Leveling up with **Robot Framework** 
-  
-###
 
 <h2>👩‍💻 Tech Stack:</h2>
 
