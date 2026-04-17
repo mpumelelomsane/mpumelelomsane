@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I’m an *IT Graduate(82% aggregate)* and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability.
+<p align="left">I’m an IT Graduate(82% aggregate) and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability.
   
 During my studies , I have consistently looked beyond just "making code work". I believe that software 
 is only as good as its reliability, which is why I have proactively expanded my skills in both
