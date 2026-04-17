@@ -21,7 +21,7 @@ Manual & Automated testing using varied tools.
 I have a proven ability to communicate technical concepts effectively having worked as a Coding & Robotics 
 Mentor and I'm a firm believer in continuous learning and documentation. 
 In my spare time I document my QA findings and experiments in how I mantain high-quality standards 
-in every every line of code I write. Feel free to check out my **Technical blog - Engineering For Quality** [here].(https://medium.com/@mpumeymsane)
+in every every line of code I write. Feel free to check out my **Technical blog - Engineering For Quality** [here.](https://medium.com/@mpumeymsane)
 
 For now let's take a stroll and see what I have been working on. 
   
