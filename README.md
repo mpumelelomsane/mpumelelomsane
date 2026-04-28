@@ -26,6 +26,7 @@ Now let's take a stroll and see what I have been working on:
 - [My 2026 step-by-step "Quality-first Developer"Roadmap](https://medium.com/@mpumeymsane/my-2026-step-by-step-qa-guide-from-goal-setting-to-goal-getting-755f61439926?source=friends_link&sk=7cbd0de9963dc46a70f0484c6722421a)
 - [How to Test API Functionality: A Practical Guide with Postman](https://medium.com/@mpumeymsane/how-to-test-api-functionality-a-practical-guide-with-postman-ee402b7752fe?source=friends_link&sk=60248815ad2d6e80fdf6d88e40435e77)
 - [Why I Chose QA : My Journey](https://medium.com/@mpumeymsane/why-i-chose-qa-my-journey-from-breaking-things-to-building-trust-7e131e298a9d?source=friends_link&sk=c589dfa58918429918effdddd8d7064a)
+-  [Using Gen AI for Test Ideas : An Experiement](https://medium.com/@mpumeymsane/an-experiment-i-used-gen-ai-for-test-ideas-13fc84f11700?source=friends_link&sk=b9d2a25dfcc1b8ab496119ad3be7914b)
 - [How I’d Explain APIs to a 12-Year-Old](https://medium.com/@mpumeymsane/how-id-explain-apis-to-a-12-year-old-9b5fa41589f5?source=friends_link&sk=309dafae459a12a57ecf4f11ac1d91ee)
 - [“Dumb” Questions are Your Secret QA Weapon -Here is Why](https://medium.com/@mpumeymsane/why-dumb-questions-are-your-secret-qa-weapon-6434bdbeaa1b?source=friends_link&sk=6ba1b7ed4de4d0c76c84f221cbe06baf)
 
