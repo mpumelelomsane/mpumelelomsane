@@ -28,17 +28,32 @@ For now let's take a stroll and see what I have been working on.
 
 - <b>Data Structures and Algorithms Practice </b>
 
+<h2>📺 Popular blog articles </h2>
+
+- [My 2026 step-by-step "Quality-first Developer"Roadmap](https://medium.com/@mpumeymsane/my-2026-step-by-step-qa-guide-from-goal-setting-to-goal-getting-755f61439926?source=friends_link&sk=7cbd0de9963dc46a70f0484c6722421a)
+- [How to Test API Functionality: A Practical Guide with Postman](https://medium.com/@mpumeymsane/how-to-test-api-functionality-a-practical-guide-with-postman-ee402b7752fe?source=friends_link&sk=60248815ad2d6e80fdf6d88e40435e77)
+- [Why I Chose QA : My Journey](https://medium.com/@mpumeymsane/why-i-chose-qa-my-journey-from-breaking-things-to-building-trust-7e131e298a9d?source=friends_link&sk=c589dfa58918429918effdddd8d7064a)
+- [How I’d Explain APIs to a 12-Year-Old](https://medium.com/@mpumeymsane/how-id-explain-apis-to-a-12-year-old-9b5fa41589f5?source=friends_link&sk=309dafae459a12a57ecf4f11ac1d91ee)
+- [“Dumb” Questions are Your Secret QA Weapon -Here is Why](https://medium.com/@mpumeymsane/why-dumb-questions-are-your-secret-qa-weapon-6434bdbeaa1b?source=friends_link&sk=6ba1b7ed4de4d0c76c84f221cbe06baf)
+
+<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="mpumelelomsane| Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
+[<img align="left" alt="mpumelelomsane| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mpumelelomsame | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium blog]
+[<img align="left" alt="mpumelelomsane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mpumelelomsane | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[email]: mailto:msanempumey@gmail.com
+[facebook]: https://facebook.com/lelow.msane
+[medium]: https://medium.com/@mpumeymsane
+[instagram]: https://www.instagram.com/_mpumelelelo?igsh=bTR4eTEyMDFldWhq
+[linkedin]: https://www.linkedin.com/in/mpumelelomsane
 
 
 
-
-<h2>👩‍💻 Tech Stack:</h2>
-
+<!--<h2>👩‍💻 Tech Stack:</h2> 
 ###
-
-
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="postman logo" />
-  <img width="12" />
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="postman logo" /<img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
@@ -84,7 +99,7 @@ For now let's take a stroll and see what I have been working on.
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
-
+-->
 ###
 
 
