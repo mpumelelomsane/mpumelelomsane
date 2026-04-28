@@ -12,40 +12,22 @@
 
 ###
 
-<p align="left">I’m an IT Graduate(82% aggregate) and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability.
-  
-During my studies , I have consistently looked beyond just "making code work". I believe that software 
-is only as good as its reliability, which is why I have proactively expanded my skills in both
-Manual & Automated testing using varied tools.
+<p align="left">I’m an IT Graduate(82% aggregate) and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability. I believe that software 
+is only as good as its reliability, which is why I have proactively expanded my skills in both Manual & Automated testing using varied tools.
 
-I have a proven ability to communicate technical concepts effectively having worked as a Coding & Robotics 
-Mentor and I'm a firm believer in continuous learning and documentation. 
+I have a proven ability to communicate technical concepts effectively having worked as a **Coding & Robotics 
+Mentor** and I'm a firm believer in continuous learning and documentation. 
 In my spare time I document my QA findings and experiments in how I mantain high-quality standards 
 in every every line of code I write. Feel free to check out my **Technical blog - Engineering For Quality** [here.](https://medium.com/@mpumeymsane)
 
 For now let's take a stroll and see what I have been working on. 
-  
-## 🎯 What I bring to the table:
-
-👩‍💻**Full-stack Versatility**:  Fluent in Java, Python, C#, and JavaScript.</li>
-  
-🪩**API Testing**: Deep-diving into **Postman** for **CRUD** operations and contract testing.
-
-🚀**Automation Mindset**: Proactive in manual and automated testing to ensure 99.9% reliability.
-
-🔁**Agile Native**: Experienced in SCRUM environments and technical mentoring.
-
-🔁**DevOps & Tools**: Mastering CI/CD integration and streamlined bug-tracking with JIRA.
- 
-🚀**Big Interest**: Leveraging AI to supercharge developer productivity and testing workflows. 
-
 
 
  
 <h2>👩‍💻 Highlighted Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
-  - [Practising DS & Algorithms in Python](https://github.com/mpumelelo/Algorithms-Practice)
+
 
 
 
