@@ -12,18 +12,16 @@
 
 ###
 
-<p align="left">I’m an IT Graduate(82% aggregate) and Software Developer with a "quality-first" obsession. My mission? Building scalable, high-quality applications using Java, Python, C#, and JavaScript, then testing them until they’re bulletproof. I focus on the intersection of performance and reliability. I believe that software 
-is only as good as its reliability, which is why I have proactively expanded my skills in both Manual & Automated testing using varied tools.
-
-I have a proven ability to communicate technical concepts effectively having worked as a **Coding & Robotics 
-Mentor** and I'm a firm believer in continuous learning and documentation. 
-In my spare time I document my QA findings and experiments in how I mantain high-quality standards 
-in every every line of code I write. Feel free to check out my **Technical blog - Engineering For Quality** [here.](https://medium.com/@mpumeymsane)
-
-For now let's take a stroll and see what I have been working on. 
-
-
+<p align="left">
+- I’m an IT Graduate(82% aggregate)
+- Software Developer with a "quality-first" obsession. 
+- Coding & Robotics Mentor with a proven ability to communicate technical concepts effectively
+- Technical Writer - @ Engineering For Quality - Feel free to check out my blog [here.](https://medium.com/@mpumeymsane)
  
+My mission? Building scalable, high-quality applications by testing them until they’re bulletproof.
+Now let's take a stroll and see what I have been working on:  
+
+
 <h2>👩‍💻 Highlighted Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
@@ -36,7 +34,40 @@ For now let's take a stroll and see what I have been working on.
 - [How I’d Explain APIs to a 12-Year-Old](https://medium.com/@mpumeymsane/how-id-explain-apis-to-a-12-year-old-9b5fa41589f5?source=friends_link&sk=309dafae459a12a57ecf4f11ac1d91ee)
 - [“Dumb” Questions are Your Secret QA Weapon -Here is Why](https://medium.com/@mpumeymsane/why-dumb-questions-are-your-secret-qa-weapon-6434bdbeaa1b?source=friends_link&sk=6ba1b7ed4de4d0c76c84f221cbe06baf)
 
-<h2> 🤳 Connect with me:</h2>
+<h2 align="center">Tech Stack 💻</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" height="45" alt="robot framework logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="35" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+
+
+!<--<h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="mpumelelomsane| Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
 [<img align="left" alt="mpumelelomsane| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mpumelelomsame | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium blog]
@@ -47,7 +78,7 @@ For now let's take a stroll and see what I have been working on.
 [facebook]: https://facebook.com/lelow.msane
 [medium]: https://medium.com/@mpumeymsane
 [instagram]: https://www.instagram.com/_mpumelelelo?igsh=bTR4eTEyMDFldWhq
-[linkedin]: https://www.linkedin.com/in/mpumelelomsane
+[linkedin]: https://www.linkedin.com/in/mpumelelomsane -->
 
 
 
