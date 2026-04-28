@@ -6,15 +6,10 @@
 <h1>Hi, I'm Mpumelelo! <br/><a href="https://github.com/mpumelelomsane">Programmer</a> | <a href="https://www.linkedin.com/in/mpumelelomsane/">Quality Engineer</a> | <a href="https://medium.com/@mpumeymsane">Technical Writer</a></h1>
 
 
-
-
 <h2>👩‍💻 About Me:</h2>
 
-###
-
-<p align="left">
-- I’m an IT Graduate(82% aggregate)
-- Software Developer with a "quality-first" obsession. 
+- I'm an IT graduate (82% Aggregate)
+- A Software Developer with a "quality-first" obsession. 
 - Coding & Robotics Mentor with a proven ability to communicate technical concepts effectively
 - Technical Writer - @ Engineering For Quality - Feel free to check out my blog [here.](https://medium.com/@mpumeymsane)
  
@@ -67,14 +62,9 @@ Now let's take a stroll and see what I have been working on:
   <img width="12" />
 
 
-!<--<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="mpumelelomsane| Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
-[<img align="left" alt="mpumelelomsane| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mpumelelomsame | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium blog]
-[<img align="left" alt="mpumelelomsane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mpumelelomsane | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[email]: mailto:msanempumey@gmail.com
+
+<!--[email]: mailto:msanempumey@gmail.com
 [facebook]: https://facebook.com/lelow.msane
 [medium]: https://medium.com/@mpumeymsane
 [instagram]: https://www.instagram.com/_mpumelelelo?igsh=bTR4eTEyMDFldWhq
