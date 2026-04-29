@@ -64,21 +64,23 @@ Now let's take a stroll and see what I have been working on:
 
 ## 📫 Let's Connect
 
-<a href="mailto:msanempumey@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/gmail.gif" alt="Gmail" style="padding-right: 40px; width: 35px;">
-</a>
-
-<a href="https://www.linkedin.com/in/mpumelelomsane" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/linkedin.gif" alt="LinkedIn" style="padding-right: 40px; width: 35px;">
-</a>
-
-<a href="https://medium.com/@mpumeymsane" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/medium.gif" alt="Medium" style="padding-right: 40px; width: 35px;">
-</a>
-
-<a href="https://github.com/mpumelelomsane" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-  <img src="icon/github.gif" alt="Github" style="padding-right: 40px; width: 35px;">
-</a>
+<div align="center">
+  <a href="mailto:msanempumey@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/GIF%20Folder/gmail.gif" alt="Gmail" width="40" />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/mpumelelomsane" target="_blank">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/GIF%20Folder/linkedin.gif" alt="LinkedIn" width="40" />
+  </a>
+  <img width="12" />
+  <a href="https://medium.com/@mpumeymsane" target="_blank">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/GIF%20Folder/medium.gif" alt="Medium" width="40" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/mpumelelomsane" target="_blank">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/GIF%20Folder/github.gif" alt="GitHub" width="40" />
+  </a>
+</div>
 
 
 
