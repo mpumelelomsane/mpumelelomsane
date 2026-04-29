@@ -127,7 +127,9 @@ Now let's take a stroll and see what I have been working on:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
+<a href="https://www.postman.com/mpumelelomsane" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/postman.svg" alt="Postman" style="padding-right: 40px; width: 35px;">
+</a>
 
 
 
