@@ -5,7 +5,6 @@
 ###
 <h1>Hi, I'm Mpumelelo! <br/><a href="https://github.com/mpumelelomsane">Programmer</a> | <a href="https://www.linkedin.com/in/mpumelelomsane/">Quality Engineer</a> | <a href="https://medium.com/@mpumeymsane">Technical Writer</a></h1>
 
-
 <h2>👩‍💻 About Me:</h2>
 
 - I'm an IT graduate (82% Aggregate) with a strong foundation in Java, Python, and Software development
@@ -75,7 +74,7 @@ Now let's take a stroll and see what I have been working on:
   </a>
   <img width="12" />
   <a href="https://medium.com/@mpumeymsane" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/medium/medium-original.svg" alt="Medium" width="40" />
   </a>
   <img width="12" />
   <a href="https://github.com/mpumelelomsane" target="_blank">
