@@ -8,7 +8,7 @@
 
 <h2>👩‍💻 About Me:</h2>
 
-- I'm an IT graduate (82% Aggregate) : Strong foundation in Java, Python, and software development
+- I'm an IT graduate (82% Aggregate) with a strong foundation in Java, Python, and Software development
 - A Software Developer with a "quality-first" obsession. 
 - Coding & Robotics Mentor with a proven ability to communicate technical concepts effectively
 - Technical Writer - **@ Engineering For Quality** - Feel free to check out my blog [here.](https://medium.com/@mpumeymsane)
@@ -62,6 +62,31 @@ Now let's take a stroll and see what I have been working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
 
+## 📫 Let's Connect
+
+<a href="mailto:msanempumey@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/gmail.gif" alt="Gmail" style="padding-right: 40px; width: 35px;">
+</a>
+
+<a href="https://www.linkedin.com/in/mpumelelomsane" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/linkedin.gif" alt="LinkedIn" style="padding-right: 40px; width: 35px;">
+</a>
+
+<a href="https://medium.com/@mpumeymsane" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/medium.gif" alt="Medium" style="padding-right: 40px; width: 35px;">
+</a>
+
+<a href="https://github.com/mpumelelomsane" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+  <img src="icon/github.gif" alt="Github" style="padding-right: 40px; width: 35px;">
+</a>
+
+
+
+
+
+
+
+
 
 
 
@@ -103,25 +128,6 @@ Now let's take a stroll and see what I have been working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
 
-<h2> 🤳 Connect with me:</h2>
-
-
-###
-
-<div align="center">
- <a href="mailto:msanempumey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</a>
-  <a href="https://www.linkedin.com/in/mpumelelomsane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@mpumeymsane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-</div>
--->
-###
 
 
