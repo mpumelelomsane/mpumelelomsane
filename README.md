@@ -66,7 +66,7 @@ Now let's take a stroll and see what I have been working on:
 
 <div align="center">
   <a href="mailto:msanempumey@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" />
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/mpumelelomsane" target="_blank">
