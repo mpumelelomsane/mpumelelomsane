@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h1>Hi, I'm Mpumelelo! <br/><a href="https://github.com/mpumelelomsane">Programmer</a> | <a href="https://linkedin.com/in/mpumelelomsane/">Quality Engineer</a> | <a href="https://medium.com/@mpumeymsane">Technical Writer</a></h1>
+<h1>Hi, I'm Mpumelelo! <br/><a href="https://github.com/mpumelelomsane">Programmer</a> | <a href="https://www.linkedin.com/in/mpumelelomsane/">Quality Engineer</a> | <a href="https://medium.com/@mpumeymsane">Technical Writer</a></h1>
 
 <h2>👩‍💻 About Me:</h2>
 
@@ -63,7 +63,7 @@ Now let's take a stroll and see what I have been working on:
 </div>
 
 ## 📫 Let's Connect
-
+<div align="center">
   <img width="12" />
   <a href="https://www.linkedin.com/in/mpumelelomsane" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
