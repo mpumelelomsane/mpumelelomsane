@@ -19,8 +19,8 @@ Now let's take a stroll and see what I have been working on:
 <h2>👩‍💻 Highlighted Projects:</h2>
 
 - <b>Working with APIs</b>
-  -[API testing using Postman](https://github.com/mpumelelomsane/Reqres_PostmanAPI_testing_project)
-  -[Building API endpoints](https://github.com/UI_Location)
+  -  [API testing using Postman](https://github.com/mpumelelomsane/Reqres_PostmanAPI_testing_project)
+  -  [Building API endpoints](https://github.com/mpumelelomsane/UI_Location)
 
 <h2>📺 Popular blog articles </h2>
 
