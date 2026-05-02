@@ -73,4 +73,10 @@ Now let's take a stroll and see what I have been working on:
   <a href="https://github.com/mpumelelomsane" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
   </a>
+
+ <img width="12" />
+  <a href="https://www.instagram.com/_mpumelelelo?igsh=cjBscDd5ZTJ1OXk1&utm_source=qr" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
+  </a>
+  
 </div>
