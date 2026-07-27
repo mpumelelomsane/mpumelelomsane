@@ -28,11 +28,11 @@ Now let's take a stroll and see what I have been working on:
 - [How to Test API Functionality: A Practical Guide with Postman](https://medium.com/@mpumeymsane/how-to-test-api-functionality-a-practical-guide-with-postman-ee402b7752fe?source=friends_link&sk=6)
 - [Why I Chose QA : My Journey](https://medium.com/@mpumeymsane/why-i-chose-qa-my-journey-from-breaking-things-to-building-trust-7e131e298a9d?source=friends_link&sk=c589dfa58918429918effdddd8d7064)
 
-<h2> Currently Learning </h2>
+<h2>📚 Currently Learning </h2>
 
 - Java Springboot 
 - RobotFramework 
-- Test Automation
+- Test Automation best practices and frameworks
   
 <h2 align="center">Tech Stack 💻</h2>
 
