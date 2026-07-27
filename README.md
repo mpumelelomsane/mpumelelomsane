@@ -27,7 +27,11 @@ Now let's take a stroll and see what I have been working on:
 - [My 2026 step-by-step "Quality-first Developer"Roadmap](https://medium.com/@mpumeymsane/my-2026-step-by-step-qa-guide-from-goal-setting-to-goal-getting-755f61439926?source=friends_link&sk=7cbd0d)
 - [How to Test API Functionality: A Practical Guide with Postman](https://medium.com/@mpumeymsane/how-to-test-api-functionality-a-practical-guide-with-postman-ee402b7752fe?source=friends_link&sk=6)
 - [Why I Chose QA : My Journey](https://medium.com/@mpumeymsane/why-i-chose-qa-my-journey-from-breaking-things-to-building-trust-7e131e298a9d?source=friends_link&sk=c589dfa58918429918effdddd8d7064)
--  [Using Gen AI for Test Ideas : An Experiement](https://medium.com/@mpumeymsane/an-experiment-i-used-gen-ai-for-test-ideas-13fc84f11700?source=friends_link&sk=b9d2a25dfcc1b8ab496119ad3be7914b)
+
+<h2>📺 Currently Learning </h2>
+- RobotFramework 
+- Java Springboot 
+- Test Automation (Selenium) 
 
 
 <h2 align="center">Tech Stack 💻</h2>
@@ -76,7 +80,7 @@ Now let's take a stroll and see what I have been working on:
   </a>
 
   <img width="12" />
-  <a href="https://www.instagram.com/_mpumelelelo?igsh=cjBscDd5ZTJ1OXk1&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/devmpoomy_" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
   </a>
   
