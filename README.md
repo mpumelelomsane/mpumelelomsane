@@ -20,7 +20,7 @@ Now let's take a stroll and see what I have been working on:
 
 - <b>Working with APIs</b>
   -  [Reqres API testing Postman Collections](https://github.com/mpumelelomsane/Reqres_PostmanAPI_testing_project)
-  -  [Building RESTful API with Java Springboot](https://github.com/mpumelelomsane/UI_Location)
+  -  [Building RESTful API with Java Springboot](https://github.com/mpumelelomsane/RESTful-API_development)
 
 <h2>📺 Popular blog articles </h2>
 
@@ -28,8 +28,7 @@ Now let's take a stroll and see what I have been working on:
 - [How to Test API Functionality: A Practical Guide with Postman](https://medium.com/@mpumeymsane/how-to-test-api-functionality-a-practical-guide-with-postman-ee402b7752fe?source=friends_link&sk=6)
 - [Why I Chose QA : My Journey](https://medium.com/@mpumeymsane/why-i-chose-qa-my-journey-from-breaking-things-to-building-trust-7e131e298a9d?source=friends_link&sk=c589dfa58918429918effdddd8d7064)
 -  [Using Gen AI for Test Ideas : An Experiement](https://medium.com/@mpumeymsane/an-experiment-i-used-gen-ai-for-test-ideas-13fc84f11700?source=friends_link&sk=b9d2a25dfcc1b8ab496119ad3be7914b)
-- [How I'd Explain APIs to a 12-Year-Old](https://medium.com/@mpumeymsane/how-id-explain-apis-to-a-12-year-old-9b5fa41589f5?source=friends_link&sk=309dafae459a12a57ecf4f11ac1d91ee)
-- ["Dumb" Questions are Your Secret QA Weapon -Here is Why](https://medium.com/@mpumeymsane/why-dumb-questions-are-your-secret-qa-weapon-6434bdbeaa1b?source=friends_link&sk=6ba1b7ed4de4d0c76c84f22)
+
 
 <h2 align="center">Tech Stack 💻</h2>
 
