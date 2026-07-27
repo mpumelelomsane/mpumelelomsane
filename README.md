@@ -7,10 +7,10 @@
 
 <h2>👩‍💻 About Me:</h2>
 
-- I'm an IT graduate (82% Aggregate) with a strong foundation in Java, Python, and Software development
+- I'm an IT graduate (82% Aggregate) with a strong foundation in Software development & Software Testing
 - A Software Developer with a "quality-first" obsession. 
 - Coding & Robotics Mentor with a proven ability to communicate technical concepts effectively
-- Technical Writer - **@ Engineering For Quality** - Feel free to check out my blog [here.](https://medium.com/@mpumeymsane)
+- [Technical Writer](https://medium.com/@mpumeymsane) my blog is called **Engineering For Quality** - Feel free to check it out 
  
 My mission? Building scalable, high-quality applications by testing them until they're bulletproof.
 Now let's take a stroll and see what I have been working on:  
