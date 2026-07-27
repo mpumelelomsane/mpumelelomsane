@@ -10,7 +10,7 @@
 - I'm an IT graduate (82% Aggregate) with a strong foundation in Software development & Software Testing
 - A Software Developer with a "quality-first" obsession. 
 - Coding & Robotics Mentor with a proven ability to communicate technical concepts effectively
-- [Technical Writer](https://medium.com/@mpumeymsane) my blog is called **Engineering For Quality** - Feel free to check it out 
+- [Technical Writer](https://medium.com/@mpumeymsane)  : my blog is called **Engineering For Quality** - Feel free to check it out 
  
 My mission? Building scalable, high-quality applications by testing them until they're bulletproof.
 Now let's take a stroll and see what I have been working on:  
@@ -19,8 +19,8 @@ Now let's take a stroll and see what I have been working on:
 <h2>👩‍💻 Highlighted Projects:</h2>
 
 - <b>Working with APIs</b>
-  -  [Reqres API testing using Postman](https://github.com/mpumelelomsane/Reqres_PostmanAPI_testing_project)
-  -  [Building API endpoints](https://github.com/mpumelelomsane/UI_Location)
+  -  [Reqres API testing Postman Collections](https://github.com/mpumelelomsane/Reqres_PostmanAPI_testing_project)
+  -  [Building RESTful API with Java Springboot](https://github.com/mpumelelomsane/UI_Location)
 
 <h2>📺 Popular blog articles </h2>
 
