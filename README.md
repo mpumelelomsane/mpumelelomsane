@@ -76,7 +76,7 @@ Now let's take a stroll and see what I have been working on:
   
   <img width="12" />
   <a href="https://github.com/mpumelelomsane" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+    <img alt="GitHub" width="40" src="https://github.com/mpumelelomsane.png?size=40" style="filter: invert(var(--color-canvas-invert, 0));" />
   </a>
 
   <img width="12" />
